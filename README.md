@@ -97,4 +97,7 @@ We would like to express our heartfelt gratitude to [**Dr. Helen K Joy**](mailto
 
 Thank you for inspiring us to push our boundaries and achieve excellence in this project.
 
+## 👥 Contributors
 
+- [**Riya Sahh**](https://www.linkedin.com/in/shahriyap/)  
+- [**Vansh Shah**](https://www.linkedin.com/in/vanshah/)  
