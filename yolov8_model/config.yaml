@@ -1,0 +1,6 @@
+path: /Users/vanshah/Documents/yolo/yolov8/yolo
+train: images/train
+val: images/train
+
+names:
+  0: christ
