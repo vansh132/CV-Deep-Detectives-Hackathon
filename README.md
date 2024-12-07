@@ -8,6 +8,9 @@ The goal is to validate and verify event posters for **CHRIST (Deemed to be Univ
 ## 💡 Solution
 We developed a solution using **YOLOv8 Object Detection** and RESTful APIs to automate the poster validation process. 🚀
 
+### 🎥 Demonstration & Explanation Video 
+[Click here to watch the video](https://drive.google.com/file/d/1SiUYaB1ZbCDfc0IjLmtexmWu8vEq874J/view?usp=sharing)
+
 ### 🌟 Key Features:
 1. **🎯 Custom Object Detection Model**: 
    - Trained a YOLOv8 model on a custom dataset of event posters with annotated logos.
