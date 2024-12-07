@@ -1,4 +1,4 @@
-# 🎯 Computer Vision Hackathon - Event Poster Validation 🎨
+# 🎯 VisionHack 2024 - Event Poster Validation 🎨
 
 ## 📝 Problem Statement
 The goal is to validate and verify event posters for **CHRIST (Deemed to be University)**, specifically ensuring the presence of the official university logo on each poster. ✅ This helps maintain branding consistency and ensures compliance with university guidelines.
@@ -77,15 +77,17 @@ Follow these steps to set up and run the project locally:
 #### Example Response:
 ```json
 {
-  "status": "success",
-  "detected_regions": [
-    {
-      "x": 120,
-      "y": 200,
-      "width": 150,
-      "height": 150
-    }
-  ]
+    "status": true,
+    "message": "Logo detected",
+    "bounding_boxes": [
+        {
+            "xmin": 946,
+            "ymin": 27,
+            "xmax": 1264,
+            "ymax": 108,
+            "score": 0.8638066649436951
+        }
+    ]
 }
 ```
 
