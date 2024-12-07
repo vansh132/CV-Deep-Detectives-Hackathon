@@ -22,6 +22,14 @@ We developed a solution using **YOLOv8 Object Detection** and RESTful APIs to au
 
 3. **🔍 API Testing**:
    - APIs thoroughly tested using [Postman](https://www.postman.com/) to ensure robust performance and reliability. 🛠️
+  
+### 📷 Screenshots
+<img src="https://res.cloudinary.com/dq1q5mtdo/image/upload/v1733601224/cv/um2uudakps8iwqzcfvgk.png" width="400" />
+<img src="https://res.cloudinary.com/dq1q5mtdo/image/upload/v1733601224/cv/rd0g0qavgi5jzjo4f6gu.png" width="400" />
+<img src="https://res.cloudinary.com/dq1q5mtdo/image/upload/v1733601223/cv/ijs4mze7ungvxidxzca4.png" width="400" />
+<img src="https://res.cloudinary.com/dq1q5mtdo/image/upload/v1733601223/cv/jwk8eomazcryrlajzlmm.png" width="400" />
+<img src="https://res.cloudinary.com/dq1q5mtdo/image/upload/v1733601223/cv/c2x2zpkfcprnm8awncos.png" width="400" />
+
 
 ---
 
